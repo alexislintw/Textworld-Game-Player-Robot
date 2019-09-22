@@ -26,7 +26,7 @@
 
 ##### 房間配置
 - 先以人工方式與遊戲互動，並以人工判斷繪出房間位置配置圖
-![rooms](https://github.com/alexislintw/textworld_game_player_agent/blob/master/report/rooms.png =250x)
+![rooms](https://github.com/alexislintw/textworld_game_player_agent/blob/master/report/rooms.png | width=250)
 
 ##### 過關條件
 - insert the keycard into the toolbox

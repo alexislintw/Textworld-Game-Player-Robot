@@ -68,4 +68,7 @@
 - https://github.com/microsoft/textworld
 - https://textworld.readthedocs.io/en/latest/
 
+##### 檔案說明
+- 程式碼請見"scripts"資料夾
+- 其他實驗過程與記錄請見"report"資料夾
 

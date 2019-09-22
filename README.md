@@ -1,4 +1,4 @@
-# 訓練一個遊戲機器代理人玩文字探險遊戲TextWorld
+# 訓練一個遊戲機器人(代理人)玩文字探險遊戲『TextWorld』
 
 ### 開發環境
 
@@ -26,7 +26,7 @@
 
 ##### 房間配置
 - 先以人工方式與遊戲互動，並以人工判斷繪出房間位置配置圖
-![rooms](https://github.com/alexislintw/textworld_game_player_agent/blob/master/report/rooms.png)
+![rooms](https://github.com/alexislintw/textworld_game_player_agent/blob/master/report/rooms.png )
 
 ##### 過關條件
 - insert the keycard into the toolbox

@@ -1,4 +1,5 @@
-# 訓練一個遊戲機器人(代理人)玩文字探險遊戲『TextWorld』
+# TextWorld Gaming Robot
+- Trained a game robot/agent to play the text adventure game "TextWorld"
 
 ### 說明
 - 這是台大資工『人工智慧』課程的期末專題，由三人小組合作進行。
